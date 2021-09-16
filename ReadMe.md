@@ -1,2 +1,2 @@
-# TinyRacoon
+# TinyRaccoon
 Safe & Efficient Modding Framework
